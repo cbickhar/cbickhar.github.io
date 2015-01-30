@@ -1,25 +1,25 @@
 body {
-    background-color: #e7faff;
+    background-color: #fff;
     font-size: 20px;
     font-family: helvetica, arial, sans-serif;
     color: black;
-}
 
-div {
-    background-color: white;
-}
-
-.section3 {
-    background-color: lime;
-    font-family: times;
 }
 
 a {
     color: black;
-    text-decoration: none;
-    border-left: 2px solid black;
+    text-decoration: underline;
+}
+
+h4{
+    
+    text-align: center;
 }
 
 h2{
     text-align: center;
+}
+
+a:hover {
+    color:#f57955;
 }
