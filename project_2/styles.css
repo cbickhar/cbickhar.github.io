@@ -20,11 +20,12 @@ a {
      font-family: "Trebuchet MS", Helvetica, sans-serif;
      font-size: 16px;
 }
+
 .container {
-  max-width: 38rem;
+  max-width: 550px;
   margin-left:  auto;
   margin-right: auto;
-  padding: 1rem;
+  padding: 3px;
 }
 
 .h1 {
@@ -48,4 +49,24 @@ a:hover, a:active {
 
 ul {
     list-style-type: none;
+}
+
+
+
+.sidebar {
+	width: 150px;
+	position: absolute;
+	left: 3px;
+	top: 3px;
+	color: white;
+	background-color: black;
+}
+
+.container sidebar-stickey {
+	width: 150px;
+	position: absolute;
+	left: 62px;
+	top: 259px;
+	color: black;
+}
 }
