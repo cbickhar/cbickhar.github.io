@@ -22,7 +22,7 @@ a {
 }
 
 .container {
-  max-width: 550px;
+  max-width: 600px;
   margin-left:  auto;
   margin-right: auto;
   padding: 3px;
@@ -38,7 +38,7 @@ a:link, a:visited {
     color: black;
     background-color: #888888;
     width: 200px;
-    text-align: center;
+    text-align: none;
     padding: 4px;
     text-decoration: underline;
 }
@@ -54,7 +54,7 @@ ul {
 
 
 .sidebar {
-	width: 150px;
+	width: 250px;
 	position: absolute;
 	left: 3px;
 	top: 3px;
