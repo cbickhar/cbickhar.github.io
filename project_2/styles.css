@@ -34,10 +34,10 @@ a {
 
 a:link, a:visited {
     display: block;
-    font-weight: bold;
+    font-weight: none;
     color: black;
-    background-color: #fff;
-    width: 120px;
+    background-color: #888888;
+    width: 200px;
     text-align: center;
     padding: 4px;
     text-decoration: underline;
@@ -58,8 +58,8 @@ ul {
 	position: absolute;
 	left: 3px;
 	top: 3px;
-	color: white;
-	background-color: black;
+	color: black;
+	background-color: #888888;
 }
 
 .container sidebar-stickey {
