@@ -31,7 +31,7 @@ a {
 
 .sidebar {
      font-family: "Trebuchet MS", Helvetica, sans-serif;
-     font-size: 14px;
+     font-size: 15px;
 }
 
 .container {
@@ -41,8 +41,18 @@ a {
   padding: 3px;
 }
 
-.h1 {
+.post-title {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #174a46;
     text-decoration: none;
+    font-size: 30px;
+}
+
+.post-date {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 16;
+    color: #174a46;
+
 }
 
 a:link, a:visited {
@@ -79,3 +89,4 @@ ul {
 	top: 259px;
 	color: black;
 }
+
