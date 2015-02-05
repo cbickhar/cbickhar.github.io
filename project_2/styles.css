@@ -1,6 +1,11 @@
+body {
+    background-color: #cbd9d8;
+}
+
 h3, h4{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+
 
 h1 {
     font-size: 20;
