@@ -3,7 +3,7 @@ body {
     font-size: 20px;
     font-family: helvetica, arial, sans-serif;
     color: black;
-    text-align: center;
+    text-align: left;
 
 }
 
@@ -12,10 +12,6 @@ a {
     text-decoration: underline;
 }
 
-h4{
-    
-    text-align: center;
-}
 
 h1{
     text-align: center;
@@ -30,20 +26,4 @@ a:hover {
     width: 100px;
     height: 30px;
     color: white;
-    text-align: center;
-}
-
-div {
-    background-color:black;
-    width: 400px;
-    text-align: center;
-}
-
-title {
-	position:relative;
-	width: 680px;
-	height:99px;
-	margin-left:29px;
-	margin-right:21px;
-	color: white;
 }
