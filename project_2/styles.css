@@ -1,11 +1,19 @@
-h1, h2, h3, h4{
+h3, h4{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
+h1 {
+    font-size: 20;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h2 {
+    font-size:20;
+}
 
 p{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 a:hover {
@@ -18,7 +26,7 @@ a {
 
 .sidebar {
      font-family: "Trebuchet MS", Helvetica, sans-serif;
-     font-size: 16px;
+     font-size: 14px;
 }
 
 .container {
@@ -34,12 +42,11 @@ a {
 
 a:link, a:visited {
     display: block;
-    font-weight: none;
+    font-weight: normal;
     color: black;
-    background-color: #888888;
-    width: 200px;
-    text-align: none;
-    padding: 4px;
+    background-color: white;
+    width: 145px;
+    text-align: left;
     text-decoration: underline;
 }
 
@@ -51,22 +58,19 @@ ul {
     list-style-type: none;
 }
 
-
-
 .sidebar {
-	width: 250px;
-	position: absolute;
+	width: 190px;
+	position: fixed;
 	left: 3px;
 	top: 3px;
 	color: black;
-	background-color: #888888;
+	background-color: white;
 }
 
 .container sidebar-stickey {
-	width: 150px;
+	width: 190px;
 	position: absolute;
 	left: 62px;
 	top: 259px;
 	color: black;
-}
 }
