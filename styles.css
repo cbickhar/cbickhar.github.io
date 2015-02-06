@@ -25,9 +25,13 @@ a:hover {
     color: #f57955;
 }
 
-div {
-    background-color:black;
-    width: 400px;
-    text-align: center;
+.sidebar {
+    font-family: helvetica, sans-serif;
+	font-size: 20px;
+	position: fixed;
+	background-color: #3da093;
+	color: black;
+	width: 175px;
+	height: 100%;
+	top: 0px;
 }
-
