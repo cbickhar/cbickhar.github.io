@@ -64,7 +64,7 @@ ul {
     padding-bottom: 5px;
 }
 
-.container sidebar-stickey {
+.container sidebar-sticky {
 	width: 190px;
 	position: absolute;
 	left: 62px;
