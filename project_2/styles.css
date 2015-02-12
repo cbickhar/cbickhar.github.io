@@ -12,7 +12,7 @@ h3, h4{
 
 
 h1 {
-    font-size: 30;
+    font-size: 25;
     font-family: Helvetica, sans-serif;
     text-decoration: none;
 }
@@ -73,15 +73,13 @@ ul {
 	color: black;
 }
 
-
-
 .sidebar {
     font-family: helvetica, sans-serif;
 	font-size: 16px;
 	position: fixed;
-	background-color: #484848;
+	background-color: #cbd9d8;
 	color: white;
-	width: 220px;
+	width: 210px;
 	height: 100%;
 	top: 0px;
 }
