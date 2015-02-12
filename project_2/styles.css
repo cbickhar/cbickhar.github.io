@@ -66,7 +66,7 @@ ul {
 }
 
 .container sidebar-sticky {
-	width: 190px;
+	width: 170px;
 	position: absolute;
 	left: 62px;
 	top: 259px;
@@ -79,7 +79,8 @@ ul {
 	position: fixed;
 	background-color: #cbd9d8;
 	color: black;
-	width: 210px;
+	width: 170px;
 	height: 100%;
 	top: 0px;
+	box-shadow: 5px 0px 10px rgba(5, 0, 0, .2);
 }
