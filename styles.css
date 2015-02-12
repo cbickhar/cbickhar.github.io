@@ -1,6 +1,6 @@
 body {
     background-color: #fff;
-    font-size: 16px;
+    font-size: 13px;
     font-family: avenir, helvetica, sans-serif;
     color: black;
     text-align: left;
@@ -34,7 +34,7 @@ a:hover {
 
 .subhead {
     font-family: avenir, helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     margin-left: 200px;
     width: 400px;
 }
@@ -45,7 +45,7 @@ a:hover {
 	position: fixed;
 	background-color: #307f75;
 	color: white;
-	width: 140px;
+	width: 170px;
 	height: 100%;
 	top: 0px;
 	left: 0px;
