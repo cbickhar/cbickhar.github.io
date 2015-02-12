@@ -84,6 +84,6 @@ ul {
 	width: 170px;
 	height: 570px;
 	top: 20px;
-	box-shadow: 5px 0px 10px rgba(5, 0, 0, .2);
+	box-shadow: 5px 0px 10px rgba(5, 0, 0, .03);
 	border-radius: 1em;
 }
