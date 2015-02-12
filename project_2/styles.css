@@ -28,7 +28,7 @@ p{
 }
 
 a:hover {
-    color:#57aba4;
+    color:black;
 }
 
 
@@ -46,7 +46,7 @@ a {
 
 a:link, a:visited {
     display: block;
-    color: white;
+    color: black;
     width: 250px;
     text-align: left;
     text-decoration: underline;
@@ -78,7 +78,7 @@ ul {
 	font-size: 16px;
 	position: fixed;
 	background-color: #cbd9d8;
-	color: white;
+	color: black;
 	width: 210px;
 	height: 100%;
 	top: 0px;
