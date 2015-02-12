@@ -12,9 +12,11 @@ h3, h4{
 
 
 h1 {
-    font-size: 16;
+    font-size: 19;
     font-family: Helvetica, sans-serif;
     text-decoration: none;
+    letter-spacing: .2em;
+    text-decoration:none;
 }
 
 h2 {
@@ -74,10 +76,12 @@ ul {
 }
 
 .sidebar {
+    outline-style: groove;
+    outline-color: white;
     font-family: helvetica, sans-serif;
 	font-size: 16px;
 	position: fixed;
-	background-color: #cbd9d8;
+	background-color: #b6c5c4;
 	color: black;
 	width: 170px;
 	height: 100%;
