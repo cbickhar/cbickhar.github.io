@@ -13,12 +13,6 @@ a {
     text-decoration: underline;
 }
 
-h5 {
-    font-family: avenir, helvetica, sans-serif;
-    font-size: 18px;
-    font-style: normal;
-}
-
 a:hover {
     color: white;
 }
@@ -28,7 +22,7 @@ a:hover {
     height: 40px;
     width: 400px;
     font-size: 36px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .subhead {
@@ -41,7 +35,7 @@ a:hover {
     font-family: avenir, helvetica, sans-serif;
 	font-size: 15px;
 	position: fixed;
-	background-color: #307f75;
+	background-color: #6ab695;
 	color: white;
 	width: 170px;
 	height: 100%;
