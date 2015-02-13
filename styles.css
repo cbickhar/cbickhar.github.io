@@ -33,7 +33,7 @@ a:hover {
 
 .sidebar {
     font-family: avenir, helvetica, sans-serif;
-	font-size: 15px;
+	font-size: 13px;
 	position: fixed;
 	background-color: #6ab695;
 	color: white;
@@ -44,10 +44,12 @@ a:hover {
 	margin-left: 0;
 	text-align: left;
 	margin: 0 auto;
+	box-shadow: 3px 3px 8px 1px rgba(0, 0, 0, .5);
+
 }
 
 .sidebarhead {
-    font-size: 18px;
+    font-size: 16px;
     margin-top: 20px;
     margin-left: 10px;
 }
