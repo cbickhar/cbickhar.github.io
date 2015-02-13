@@ -6,6 +6,7 @@ body {
     text-align: left;
     width: 400px;
     margin-left: 200px;
+    margin-top: 30px;
 }
 
 a {
@@ -35,27 +36,32 @@ a:hover {
     font-family: avenir, helvetica, sans-serif;
 	font-size: 13px;
 	position: fixed;
-	background-color: #6ab695;
 	color: white;
-	width: 170px;
-	height: 100%;
 	top: 0px;
 	left: 0px;
+	margin-top: 30px;
 	margin-left: 0;
-	text-align: left;
-	margin: 0 auto;
-	box-shadow: 1px 3px 8px 1px rgba(0, 0, 0, .5);
+	text-align: center;
+	box-shadow: 1px 3px 6px 1px rgba(0, 0, 0, .5);
+    width: 140px;
+    height: 140px;
+    background-color: #6ab695;
+    border-radius: 100px;
 
 }
 
 .sidebarhead {
     font-size: 16px;
-    margin-top: 20px;
-    margin-left: 10px;
+    margin-top: 30px;
+    margin-left: 0px;
 }
 
 ol {
     list-style-type: none;
     text-align: left;
     width: 100;
+}
+
+.circle {
+
 }
