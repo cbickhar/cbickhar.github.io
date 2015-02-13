@@ -4,7 +4,7 @@ body {
 	padding: 0px;
 	line-height: 20px;
 	font-size: 13px;
-	margin-left: 250;
+	margin-left: 195;
 }
 
 h3, h4{
@@ -16,13 +16,15 @@ h1 {
     font-size: 19;
     font-family: Helvetica, sans-serif;
     text-decoration: none;
-    letter-spacing: .2em;
-    text-decoration:none;
+    letter-spacing: .1em;
+    margin-bottom: -5px;
 }
 
 h2 {
     font-size:14;
     font-style: normal;
+    margin-bottom: -15px;
+    margin-left: 3px;
 }
 
 p{
@@ -83,7 +85,7 @@ ul {
 	background-color: #b6c5c4;
 	color: black;
 	width: 175px;
-	height: 570px;
+	height: 490px;
 	top: 20px;
 	left: 20px;
 	box-shadow: 5px 0px 10px rgba(5, 0, 0, .03);
