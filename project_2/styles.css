@@ -4,7 +4,6 @@ body {
 	padding: 0px;
 	line-height: 20px;
 	font-size: 13px;
-	margin-left: 195;
 }
 
 h3, h4{
@@ -44,11 +43,13 @@ a {
 .container {
   max-width: 500px;
   height:100%;
-  margin-left:  auto;
   margin-right: auto;
   padding: 3px;
 }
 
+.content {
+    margin-left: 220px;
+}
 a:link, a:visited {
     display: block;
     color: black;
@@ -85,9 +86,9 @@ ul {
 	background-color: #b6c5c4;
 	color: black;
 	width: 175px;
-	height: 490px;
+	height: 485px;
 	top: 20px;
 	left: 20px;
-	box-shadow: 5px 0px 10px rgba(5, 0, 0, .03);
+	box-shadow: 3px 3px 8px .5px ;
 	border-radius: 1em 0em ;
 }
