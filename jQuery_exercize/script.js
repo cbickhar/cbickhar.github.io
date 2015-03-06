@@ -1,6 +1,6 @@
 $.remove("pirate");
 $.add("gradient");
-$(".pirate").remove();
+$ ("#pirate") .remove ();
 
 
 /*
