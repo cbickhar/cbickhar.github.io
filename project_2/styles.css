@@ -4,6 +4,7 @@ body {
 	padding: 0px;
 	line-height: 20px;
 	font-size: 13px;
+	color: #696969;
 }
 
 h3, h4{
@@ -53,14 +54,14 @@ a {
 }
 a:link, a:visited {
     display: block;
-    color: black;
-    width: 250px;
+    color: #696969;
+    width: 150px;
     text-align: left;
     text-decoration: underline;
 }
 
 a:hover, a:active {
-    color: #d4d4d4;
+    color: white;
 }
 
 ul {
@@ -84,8 +85,8 @@ ul {
     font-family: helvetica, sans-serif;
 	font-size: 16px;
 	position: fixed;
-	background-color: #dddddd;
-	color: black;
+	background-color: #e8e8e8;
+	color: #696969;
 	width: 175px;
 	height: 485px;
 	top: 20px;
