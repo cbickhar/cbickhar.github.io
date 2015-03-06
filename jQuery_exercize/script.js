@@ -1,6 +1,5 @@
 $.remove("pirate");
 
-$.show("gradient");
 
 /*
 
@@ -29,5 +28,6 @@ Now that we have stored the status of our button, let's show the user an image i
 If the user has activated the button, toggle the visibility of id "cat" to reveal our animated leopard.
 
 */
+
 
 
