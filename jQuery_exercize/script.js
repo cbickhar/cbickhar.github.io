@@ -1,5 +1,7 @@
 $.remove("pirate");
 $.add("gradient");
+$(".pirate").remove();
+
 
 /*
 
