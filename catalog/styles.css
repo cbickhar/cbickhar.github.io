@@ -22,3 +22,29 @@ body {
 	top: 30px;
 	left: 0px;
 }
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: helvetica, sans-serif;
+    size: 11px;
+}
+
+a:hover {
+    color: #a1a1a1;
+}
+
+.p {
+    size:100px;
+    height: 300px;
+}
+
+
+.exploreadd {
+    font-family: helvetica, sans-serif;
+    font-size: 28px;
+    top: 300px;
+    
+    
+}
