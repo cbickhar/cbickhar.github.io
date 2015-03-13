@@ -1,5 +1,45 @@
 $ ("#pirate") .remove ();
 
+$ ( "body" ) .addClass( "gradient" );
+
+var clicked = false;
+
+$ ("#toggle").click(function() { 
+if (clicked == false) {
+    $("#status").html("GO");
+    $("#status").css({"background-color" : "lime"});
+    $("#toggle").html("cat");
+    $("#toggle").html("Stop");
+
+    clicked = true;
+    
+} else {
+    $("#status").html("STOP");
+    $("#status").css({"background-color" : "red"});
+    $("#toggle").html("Start");
+    clicked = false;
+}
+    
+/*$ ("#toggle").click(function() { 
+    $("#status").html("GO").css({"background-color" : "lime"});
+    $("#toggle").html("Stop"e);
+    -shothand
+*/
+
+
+
+
+});
+
+
+/* if (clicked = true) {
+    $ ("#toggle").show ttb ("#cat");
+    
+}
+*/
+
+
+
 /*
 
 Instructions:
