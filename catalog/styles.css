@@ -21,10 +21,12 @@ body {
 	height: 30px;
 	top: 30px;
 	left: 0px;
+	
 }
 
 
 a {
+    margin-left: 100px;
     color: white;
     text-decoration: none;
     font-family: helvetica, sans-serif;
@@ -38,13 +40,4 @@ a:hover {
 .p {
     size:100px;
     height: 300px;
-}
-
-
-.exploreadd {
-    font-family: helvetica, sans-serif;
-    font-size: 28px;
-    top: 300px;
-    
-    
 }
