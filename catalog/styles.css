@@ -52,11 +52,6 @@ h1 {
 	
 }
 
-.search {
-    margin-top: 260px;
-    
-}
-
 
 .formcontentcontainer {
     margin-left: 250;
@@ -74,6 +69,17 @@ h1 {
     
     
 }
+
+
+.info_image {
+    margin-left: 20;
+}
+
+.info_box {
+    margin-left: 480px;
+    margin-top: -300px;
+}
+
 
 
 
@@ -109,6 +115,9 @@ div.img {
   width: 120px;
   margin: 5px;
 }
+
+
+
 
 
 
