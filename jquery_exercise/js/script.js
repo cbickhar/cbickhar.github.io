@@ -8,9 +8,10 @@ $ ("#toggle").click(function() {
 if (clicked == false) {
     $("#status").html("GO");
     $("#status").css({"background-color" : "lime"});
-    $("#toggle").html("cat");
-    $("#toggle").html("Stop");
-
+    $.mouseenter(function() {
+        $("cat").show()
+});
+    $("#toggle").show("Stop");
     clicked = true;
     
 } else {
@@ -20,10 +21,7 @@ if (clicked == false) {
     clicked = false;
 }
     
-/*$ ("#toggle").click(function() { 
-    $("#status").html("GO").css({"background-color" : "lime"});
-    $("#toggle").html("Stop"e);
-    -shothand
+/*$("#toggle").html("cat");
 */
 
 
