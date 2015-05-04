@@ -1,20 +1,32 @@
+.page2 {
+        color: #3b1f06;
+        width: 128px;
+        height: 128px;
+        text-align: center;
+        font-family: helvetica, sans-serif;
+        font-weight: lighter;
+        margin-left: 530px;
+        margin-top: -120;
+        text-decoration: underline;
+}
+
 body {
-    background-color: #e0cebb;
+    background-color: #ceb69c;
     width: 100%;
     height: 100%;
 }
 
 
 .header{
-    padding-top: 10px;
-    padding-left: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
     color: #e0cebb;
     text-decoration: none;
     font-family: times, serif;
     font-weight: lighter;
-    font-size: 70px;
+    font-size: 60px;
     background-color: #3b1f06;
-    height: 80px;
+    height: 70px;
     
 }
 
@@ -25,13 +37,18 @@ h1 {
     padding-left: 20px;
     color: #e0cebb;
     text-decoration: none;
-    font-family: times, serif;
+    font-family: helvetica;
     font-weight: lighter;
     font-size: 40px;
     background-color: #3b1f06;
     
 }
 
+ html, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
 
 
 .sidebar {
@@ -131,7 +148,7 @@ a:hover {
 	background-color: #f8f4ef;
 	width: 174px;
 	height: 250px;
-	margin-left: 80px;
+	margin-left: 20px;
 	padding: 10px;
 	outline: solid #3b1f06;
 }
@@ -144,12 +161,23 @@ a:hover {
 	width: 174px;
 	height: 340px;
     margin-top: -270px;
-	margin-right: 80px;
+	margin-right: 220px;
 	padding: 10px;
 	outline: solid #3b1f06;
+}
+
+.search2 {
+    width: 400;
+    outline: solid #3b1f06;
+    padding: 10px;
+    
 }
 
 
 
 
-
+h2 {
+    padding-top: 10;
+    color: #3b1f06;
+    font-weight: normal;
+}
