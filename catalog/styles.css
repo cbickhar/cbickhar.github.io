@@ -32,14 +32,14 @@ body {
 
 
 h1 {
-    height: 60px;
-    padding-top: 30px;
+    height: 45px;
+    padding-top: 45px;
     padding-left: 20px;
     color: #e0cebb;
     text-decoration: none;
     font-family: helvetica;
     font-weight: lighter;
-    font-size: 40px;
+    font-size: 30px;
     background-color: #3b1f06;
     
 }
@@ -95,6 +95,7 @@ h1 {
 
 
 a {
+    padding-left: 10;
     color: #3b1f06;
     text-decoration: none;
     font-family: helvetica, sans-serif;
